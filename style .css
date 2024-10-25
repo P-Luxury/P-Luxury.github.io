@@ -729,12 +729,18 @@ hr{
     outline: none;
     background: transparent;
 }
-.btn a{
-    color: gray;
-    text-decoration: none;
-}
+
 .login-form button{
     margin: 10px 0;
 }
 
+.btn a{
+    color: #464343c0;
+    text-decoration: none;
+    
+}
+
+.login-form input{
+    color: #585555;
+}
 /* Blog section End */
