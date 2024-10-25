@@ -729,7 +729,10 @@ hr{
     outline: none;
     background: transparent;
 }
-
+.btn a{
+    color: gray;
+    text-decoration: none;
+}
 .login-form button{
     margin: 10px 0;
 }
